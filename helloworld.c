@@ -7,7 +7,7 @@ int main()
 
     int i = 0;
 
-    if(i > 0) { // lgtm [cpp/constant-comparison]
+    if(i > 0) {
         printf("never reached");
     }
 
