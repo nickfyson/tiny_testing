@@ -1,4 +1,4 @@
 
 let y = 0;
-y = y;
+y = y; // lgtm [js/redundant-assignment]
 
