@@ -15,7 +15,7 @@ int main()
     srand(time(NULL));
 
     int j = 0;
-    // j = rand() % 10;
+    j = rand() % 10;
 
     if(j < 4) {
         printf("always reached");
